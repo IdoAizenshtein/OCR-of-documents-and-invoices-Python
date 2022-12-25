@@ -1,0 +1,3 @@
+sqs-py-result: https://sqs.eu-west-1.amazonaws.com/136511044100/BB-AWS-Dev-SQS_PY-RESULT
+sqs-separated: https://sqs.eu-west-1.amazonaws.com/136511044100/BB-AWS-Dev-SQS_SEPARATED
+target-bucket: bb-aligned-dev

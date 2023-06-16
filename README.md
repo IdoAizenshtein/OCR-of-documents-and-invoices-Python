@@ -3,6 +3,7 @@
 
 
 <p align="center">
+  <img src="Tesseract_OCR_logo_(Google).png" height="50">
   <img src="vertical-logo-monochromatic (1).webp" height="50">
   <img src="Amazon-S3-Logo.svg" height="50">
   <img src="AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg.png" height="50">

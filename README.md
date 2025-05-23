@@ -60,7 +60,7 @@ An intelligent, cloud-ready OCR (Optical Character Recognition) system specifica
 ## 🛠️ Installation
 
 1. Clone the repository:
-   bash git clone https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python
+   bash git clone https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python](https://github.com/IdoAizenshtein/OCR-of-documents-and-invoices-Python.git
 2. Install dependencies:
    bash pip install -r requirements.txt
 3. Configure AWS credentials:
